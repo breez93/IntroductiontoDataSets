@@ -1,0 +1,6 @@
+C:\Users\Paulo Rafael\source\repos\DataSet\DataSet\bin\Debug\DataSet.exe.config
+C:\Users\Paulo Rafael\source\repos\DataSet\DataSet\bin\Debug\DataSet.exe
+C:\Users\Paulo Rafael\source\repos\DataSet\DataSet\bin\Debug\DataSet.pdb
+C:\Users\Paulo Rafael\source\repos\DataSet\DataSet\obj\Debug\DataSet.csprojAssemblyReference.cache
+C:\Users\Paulo Rafael\source\repos\DataSet\DataSet\obj\Debug\DataSet.exe
+C:\Users\Paulo Rafael\source\repos\DataSet\DataSet\obj\Debug\DataSet.pdb
